@@ -1,10 +1,6 @@
 ### Hi there 👋, I'm Saptarshi, a junior frontend developer.
 
-<!-- <p align="center">
-    <img src="./assets/dp.png" alt="My picture">
-</p> -->
-
-![My image](./assets/dp.png)
+<img src="./assets/dp.png" alt="My picture" style="display: block; margin: auto;">
 
 - 🔭 I’m currently working on Frontend Mentor Projects
 - 🌱 I’m currently learning React, Accessibility
