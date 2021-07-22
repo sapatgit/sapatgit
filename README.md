@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Saptarshi, a junior frontend developer.
 
-<img src="./assets/dp.png" alt="My picture" style="display: block; margin: auto;">
+![My image](./assets/dp.png)
 
 - 🔭 I’m currently working on Frontend Mentor Projects
 - 🌱 I’m currently learning React, Accessibility
