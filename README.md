@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Saptarshi, a fullstack developer.
+### Hi there 👋, I'm Saptarshi, a developer.
 
 ![My image](./assets/dp.png)
 
