@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Saptarshi, a developer.
+### Hi there 👋, I'm Sap
 
 ![My image](./assets/dp.png)
 
